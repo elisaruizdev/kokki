@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Cartel japonés: sol rojo y monte con nieve en tinta, centrado en la zona segura del icono adaptativo -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Sol -->
+    <path
+        android:fillColor="#D7402B"
+        android:pathData="M54,48m-19,0a19,19 0,1 1,38 0a19,19 0,1 1,-38 0" />
+    <!-- Monte en tinta -->
+    <path
+        android:fillColor="#221D1B"
+        android:pathData="M30,76L46,57L50,61L57,53L78,76Z" />
+    <!-- Nieve -->
+    <path
+        android:fillColor="#F3E9D8"
+        android:pathData="M46,57L50,61L57,53L62.6,59.1L59.5,58.2L56,61.5L51,59L46.5,62.5L42.6,61Z" />
+</vector>

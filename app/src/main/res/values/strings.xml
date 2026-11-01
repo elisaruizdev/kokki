@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kokki</string>
+    <string name="blocker_description">Bloquea las apps que elijas cuando no cumples lo que te has propuesto y cuenta tus pasos para los retos de caminar. Solo mira qué app se abre y, mientras dura un castigo, impide abrir los ajustes de Kokki para que no se pueda desactivar. No guarda ni envía nada de lo que hay en tu pantalla.</string>
+</resources>
